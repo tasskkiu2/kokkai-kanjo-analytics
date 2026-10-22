@@ -1,0 +1,5 @@
+.venv/
+.hf-cache/
+__pycache__/
+.DS_Store
+speech_clusters_excluding_0_4.csv
